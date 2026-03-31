@@ -49,5 +49,9 @@ class Program
         }
 
         Console.WriteLine(dictAppareils["Find X3 Pro"]);
+
+        CatalogueAppareils catalogue = new CatalogueAppareils(dictAppareils);
+        catalogue.AfficherApppareil("XPS 13");
+        catalogue.AfficherApppareil("non existant");
     }
 }

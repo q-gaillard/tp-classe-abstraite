@@ -25,3 +25,7 @@ Exercice 5 :
 Exercice 6 :
 
 1 ) crée des dictionnaire sert à obtenir des valeurs à partir de clé ( par exemple les appareil avec ici, leur modèles)
+
+Exercice 7 :
+
+1 ) le try catch est utile dans cette méthode car elle permet d'interceter les erreurs de dictionnaires
