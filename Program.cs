@@ -17,5 +17,11 @@ class Program
         phone1.AfficherType();
         phone1.AfficherGarantie();
         phone1.AfficherInfo();
+
+        Ordinateur ordi2 = new Ordinateur("Dell", "XPS 13", new DateTime(2020, 5, 15), 13.3);
+        Ordinateur ordi3 = new Ordinateur("HP", "Spectre x360", new DateTime(2019, 10, 1), 14.0);
+
+        ordi2.CalculerAnciennete();
+        ordi3.CalculerAnciennete();
     }
 }

@@ -13,3 +13,8 @@ Exercice 2 :
 Exercice 3 :
 
 1 ) il affiche "je suis un appareil" car il utilise la méthode dans la classe mère Appareil
+
+Exercice 4 :
+
+1 ) le type de donnée pour les date est DateTime
+
