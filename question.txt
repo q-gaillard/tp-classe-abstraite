@@ -21,3 +21,7 @@ Exercice 4 :
 Exercice 5 :
 
 1 ) l'on peut les stocker dans Appareil car il s'agit de classe filles
+
+Exercice 6 :
+
+1 ) crée des dictionnaire sert à obtenir des valeurs à partir de clé ( par exemple les appareil avec ici, leur modèles)

@@ -41,5 +41,13 @@ class Program
             appareil.AfficherGarantie();
             appareil.AfficherInfo();
         }
+
+        Dictionary<string, Appareil> dictAppareils = new Dictionary<string, Appareil>();
+        foreach (Appareil appareil in appareils)
+        {
+            dictAppareils.Add(appareil.GetModele(), appareil);
+        }
+
+        Console.WriteLine(dictAppareils["Find X3 Pro"]);
     }
 }
