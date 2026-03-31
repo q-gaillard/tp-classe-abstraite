@@ -11,5 +11,11 @@ class Program
         ordi1.AfficherGarantie();
         ordi1.AfficherInfo();
         Console.WriteLine(ordi1);
+
+        Smartphone phone1 = new Smartphone("Apple", "iPhone 13", DateTime.Now, 3);
+        phone1.Allumer();
+        phone1.AfficherType();
+        phone1.AfficherGarantie();
+        phone1.AfficherInfo();
     }
 }

@@ -9,3 +9,7 @@ Exercice 1:
 Exercice 2 :
 
 1 ) ToString est ici utile car il permet d'afficher les attributs de la classes facilement
+
+Exercice 3 :
+
+1 ) il affiche "je suis un appareil" car il utilise la méthode dans la classe mère Appareil
