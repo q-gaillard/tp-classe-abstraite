@@ -47,7 +47,7 @@ abstract class Appareil
 
     public void Allumer()
     {
-        Console.WriteLine("L'appareil s'allume avec classe et dignité...");
+        Console.WriteLine("L'appareil s'allume avec classe et de manière dignité...");
     }
     public virtual void AfficherType()
     {

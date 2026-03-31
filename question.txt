@@ -5,3 +5,7 @@ Exercice 1:
 1 ) La classe Appareil est abstraite pour pouvoir l'utilisez uniquement avec des classes filles ( ne pas crée d'instance de Appareil )
 2 ) non, car c'est une classe abstraite
 3 ) virtual est utilisable et définie dans Appareil contrairement à abstract
+
+Exercice 2 :
+
+1 ) ToString est ici utile car il permet d'afficher les attributs de la classes facilement
